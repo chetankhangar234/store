@@ -120,6 +120,11 @@ video {
   max-width: 720px;
   height: auto;
 }
+iframe{
+    width: 100%;
+    max-width: 720px;
+    height: auto
+}
 
 
 
