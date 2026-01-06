@@ -115,4 +115,12 @@ footer{
     background-color: rgb(232, 159, 159);
     font-size: larger;
 }
+video {
+  width: 100%;
+  max-width: 720px;
+  height: auto;
+}
+
+
+
 
